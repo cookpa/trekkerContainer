@@ -1,6 +1,6 @@
 # trekkerContainer
 
-Containerized version of [trekker](https://github.com/dmritrekker/trekker)
+Containerized version of [trekker](https://github.com/dmritrekker/trekker). Please see the trekker page for licensing terms for trekker, and its dependencies.
 
 
 # Citations
